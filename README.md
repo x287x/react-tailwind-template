@@ -1,2 +1,8 @@
 # react-tailwind-template
-A Vite template with react, tailwind, postcss, postcss autoprevixer, postcss nesting and tailwind prettier plugin
+A Vite template with:
+  - react
+  - tailwind
+  - postcss
+  - postcss autoprefixer
+  - postcss nesting
+  - tailwind prettier plugin.
